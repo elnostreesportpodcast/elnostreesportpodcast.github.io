@@ -331,6 +331,10 @@ h3 {
     }
 }
 
+.producto_imagen--ivoox {
+    padding: 7rem;
+}
+
 .producto:hover .producto_imagen {
     transform: scale(1.03);
 }
